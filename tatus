@@ -1,0 +1,49 @@
+[33mcommit e0c60b254d9f5facffa1d3ff698ad1bd28075283[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: d8a7c3d cf4dfdd
+Author: Zeida <zeidaromen97@gmail.com>
+Date:   Fri Oct 18 14:58:38 2024 +0100
+
+    Merge branch 'master' of https://github.com/Zeida/ejercicios_curso_fund_telefonica
+
+[33mcommit d8a7c3d3c246fa4130c482726d558192b72c538f[m
+Author: Zeida de los Reyes Rodríguez Mendoza <Zeidaromen97@gmail.com>
+Date:   Fri Oct 18 14:29:29 2024 +0100
+
+    Update README.md
+
+[33mcommit 3ba2b3e08a594af13881dc5cb028ea2ea67e5ba7[m
+Author: Zeida de los Reyes Rodríguez Mendoza <Zeidaromen97@gmail.com>
+Date:   Fri Oct 18 14:26:01 2024 +0100
+
+    Initial commit
+
+[33mcommit cf4dfdd689bcbb27eb5a08e484961df862590c8b[m
+Merge: 1a4d6e2 ef06c3b
+Author: Zeida <zeidaromen97@gmail.com>
+Date:   Fri Oct 18 14:42:58 2024 +0100
+
+    Merge branch 'master' of https://github.com/Zeida/ejercicios_curso_fund_telefonica
+
+[33mcommit 1a4d6e2626aedd49458c285462dca5a55430b2dd[m
+Author: Zeida <zeidaromen97@gmail.com>
+Date:   Fri Oct 18 14:36:15 2024 +0100
+
+    # Etiquetas HTML
+    ## Enunciado:
+    Crear una página HTML que presente al usuario una tabla conteniendo los números del 1 al 100 en filas de diez números.
+    La cabecera de la tabla tiene que estar formada por una sola celdacon el texto ‘Números del 1 al 100.
+    
+    Se desarrolla la solucion unicamente usando html en 1to100exercise.html
+    Se desarrolla una solucion usando JS y HTML en la que se permite al usuario introducir donde empieza y donde acaba la serie de numeros a representar y cuantos numeros se representan por fila a través de un promtp.
+
+[33mcommit ef06c3b2a8b5a25c5e5244e500085add7f10a04d[m
+Author: Zeida de los Reyes Rodríguez Mendoza <Zeidaromen97@gmail.com>
+Date:   Fri Oct 18 14:29:29 2024 +0100
+
+    Update README.md
+
+[33mcommit 5d07b92ad74f91b35554bb83fc786ba78c283f79[m
+Author: Zeida de los Reyes Rodríguez Mendoza <Zeidaromen97@gmail.com>
+Date:   Fri Oct 18 14:26:01 2024 +0100
+
+    Initial commit

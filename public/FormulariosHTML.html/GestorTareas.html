@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Task Manager</title>
+</head>
+<body>
+	<h1>Task Manager</h1>
+	<section>
+		<table>
+			<thead>
+				<th id="t_id"></th>
+				<th id="t_name"></th>
+				<th id="t_todo"></th>
+				<th id="t_prog"></th>
+				<th id="t_done"></th>
+			</thead>
+			<tbody>
+				<tr>
+					<td>1</td>
+					<td class="name">Lavar la ropa</td>
+					<td class="ico">X</td>
+					<td class="ico"></td>
+					<td class="ico"></td>
+				</tr>
+
+				<tr>
+					<td>1</td>
+					<td class="name">Hacer la compra mensual</td>
+					<td class="ico"></td>
+					<td class="ico">X</td>
+					<td class="ico"></td>
+				</tr>
+
+				<tr>
+					<td>1</td>
+					<td class="name">Terminar portfolio</td>
+					<td class="ico"></td>
+					<td class="ico"></td>
+					<td class="ico">X</td>
+				</tr>
+
+				<tr>
+					<td>1</td>
+					<td class="name">Ordenar escritorio</td>
+					<td class="ico">X</td>
+					<td class="ico"></td>
+					<td class="ico"></td>
+				</tr>
+
+				<tr>
+					<td>1</td>
+					<td class="name">Enviar CV</td>
+					<td class="ico">X</td>
+					<td class="ico"></td>
+					<td class="ico"></td>
+				</tr>
+			</tbody>
+		</table>
+	</section>
+<h2>Informacion de la tarea:</h2>
+	<form>
+		<div id="name">
+			<label for="task_name">Tarea</label> <input type="text"
+				id="task_name" name="task_name">
+		</div>
+		<label>Estado</label>
+		<div id="state">
+			<input type="checkbox" id="task_todo" name="task_state" value="todo">
+			<label for="task_todo">Pendiente</label>
+
+			<input type="checkbox" id="task_prog" name="task_state" value="progress">
+			<label for="task_progress">En progreso</label>
+
+			<input type="checkbox" id="task_done" name="task_state" value="done">
+			<label for="task_done">Hecha</label>
+		</div>
+		<div id="detail">
+		<label for="task_detail">Detalle:</label>
+		<textarea id= "task_detail" name="task_detail"></textarea>
+		</div>
+		<div class="button">
+		<button type="submit">Guardar cambios</button>
+		</div>
+	</form>
+</body>
+</html>

@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    align-items:center;
+    width:50%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px; 
+    text-align:center;
+    margin-left:20px;
+    margin-right:20px;
+}
+
+thead, .listado_de_coches {
+    background-color: lightcoral;
+}
+
+tbody {
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background-color: #D6EEEE;
+}
